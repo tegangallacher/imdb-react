@@ -1,0 +1,79 @@
+body{
+  font-family: Verdana;
+}
+
+.counter-box, .movie-box{
+  /*border: 2px solid mediumaquamarine;*/
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px auto;
+  width: 400px;
+  font-size: 20px;
+  text-align: left;
+  background-color: #F0F0F0;
+}
+
+a {
+  color: #136CB2;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #136CB2;
+  text-decoration: underline;
+}
+h1  {
+  font-size: 10px;
+  color: #136CB2;
+  text-decoration: none;
+  text-align: right;
+}
+
+button{
+  padding: 10px;
+  width: 100%;
+  font-size: 20px;
+  color: white;
+  background-color: #136CB2;
+}
+
+.more-opening{
+  padding-top: 40px;
+  font-size: 12px;
+}
+
+button:hover{
+  text-decoration: underline;
+}
+
+.movie{
+  border-bottom: 1px solid mediumaquamarine;
+  padding: 10px;
+}
+
+.comment-form{
+  margin: 0 auto;
+  width: 70%;
+}
+
+.comment-form input{
+  display: block;
+  margin: 20px 0;
+  padding: 10px;
+  width: 100%;
+}
+
+.comment-form input[type=submit]{
+  width: 100%;
+  padding: 10px;
+  margin 20px auto;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  background-color: mediumaquamarine;
+  border-radius: 5px;
+}
+
+.countries-box{
+  
+}
